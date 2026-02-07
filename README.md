@@ -77,24 +77,3 @@ Work in progress.
 Expect bugs, missing features, and ongoing improvements.
 
 ---
-
-## 🤝 Contributing
-
-Suggestions and improvements are welcome.
-Feel free to fork the project and experiment.
-
----
-
-## 📜 License
-
-MIT License (or choose another if preferred)
-
----
-
-If you want, I can also give you:
-
-* A **super minimal README**
-* A **more polished open-source style README**
-* Or a version tailored to your exact file structure
-
-Just say the word.
